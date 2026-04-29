@@ -30,6 +30,5 @@ I've spent the last 2.5 years working on a distributed message broker written in
 
 ## Links
 
-- [Personal Website](https://www.ben-hodge.com) I am not a frontend developer 👨‍🎨
 - [GitLab Profile (work)](https://gitlab.com/benhodge_plusone)
 - [GitLab Profile (personal)](https://gitlab.com/bengarishodge)
